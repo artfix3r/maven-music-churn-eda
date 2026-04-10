@@ -102,3 +102,15 @@ Built a model-ready feature table with:
 ---
 
 ## 📁 Project Structure
+maven-music-churn-eda/
+├── ea.ipynb # Main EDA notebook
+├── mavenmusiccustomers.csv # Customer data
+├── mavenmusiclisteninghistory.xlsx # Listening & session data
+└── README.md
+
+---
+
+## 👤 Author
+
+**Yusif İmamverdiyev**  
+Computer Engineering Instructor | AI & ML Researcher    
